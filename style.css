@@ -186,6 +186,12 @@ textarea{
     outline-color: #18D80f;
 }
 
+.pagina{
+    display: flex;
+    font-size: 500px;
+
+}
+
 @media (max-width:1100px) {
     
     p{
