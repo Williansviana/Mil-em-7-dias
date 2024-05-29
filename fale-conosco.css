@@ -31,7 +31,7 @@ button{
     text-decoration: none;
 }
 
-@media (max-width:500px){
+@media (max-width:800px){
     .contato{
         font-size: 20px;
     }
